@@ -1,0 +1,1 @@
+# fuzzy-vacation-planner
